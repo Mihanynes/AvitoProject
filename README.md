@@ -24,3 +24,9 @@ GET: localhost:8080/users/activeSegments,
 body: {
     "user_id": <id юзера(число)>
 }
+
+Все изменения вносятся в БД, не смотрите на то, что возвращают запросы.
+
+Схема БД:
+<img width="459" alt="Снимок экрана 2023-08-31 в 22 50 54" src="https://github.com/Mihanynes/AvitoProject/assets/96622357/bef84839-b4df-48bd-bc25-43872b59a117">
+
